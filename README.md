@@ -120,3 +120,20 @@ function logout() {
 function showRegister() {
     showNotification('Registration would open here');
 }
+[
+    {
+        "id": "finance",
+        "name": "Finance Department",
+        "description": "Budget and accounting services"
+    },
+    {
+        "id": "hr",
+        "name": "Human Resources",
+        "description": "Staff management portal"
+    },
+    {
+        "id": "operations",
+        "name": "Operations",
+        "description": "Daily business management"
+    }
+]

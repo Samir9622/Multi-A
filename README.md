@@ -1,3 +1,18 @@
+id": "finance",
+        "name": "Finance Department",
+        "description": "Budget and accounting services"
+    },
+    {
+        "id": "hr",
+        "name": "Human Resources",
+        "description": "Staff management portal"
+    },
+    {
+        "id": "operations",
+        "name": "Operations",
+        "description": "Daily business management"
+    }
+]
 <!DOCTYPE html>
 <html>
 <head>
@@ -122,18 +137,4 @@ function showRegister() {
 }
 [
     {
-        "id": "finance",
-        "name": "Finance Department",
-        "description": "Budget and accounting services"
-    },
-    {
-        "id": "hr",
-        "name": "Human Resources",
-        "description": "Staff management portal"
-    },
-    {
-        "id": "operations",
-        "name": "Operations",
-        "description": "Daily business management"
-    }
-]
+        "
